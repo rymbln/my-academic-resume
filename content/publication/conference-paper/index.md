@@ -85,3 +85,17 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+<div><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/jM5Kf/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/jM5Kf/full.png" alt="" /></noscript></div>
+
+https://datalens.yandex/7rzt7892p1uex
+
+
+https://datalens.yandex/tdlfhihtxz32j
+
+<div style="width: 100%">
+
+<iframe frameborder="0" src="https://datalens.yandex/tdlfhihtxz32j?_embedded=1&_no_controls=1"></iframe>
+
+</div>
