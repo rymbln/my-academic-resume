@@ -5,7 +5,7 @@
 
 title: Academic # Website name
 baseURL: 'https://example.com/' # Website URL
-
+publishDir: docs
 
 ############################
 ## LANGUAGE

@@ -216,7 +216,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-397856214&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-271395486&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +226,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-397856214&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-271395486&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -765,7 +765,8 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://datalens.yandex/tdlfhihtxz32j&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://datalens.yandex/tdlfhihtxz32j&lt;/a&gt;&lt;/p&gt;
 &lt;div style=&#34;width: 100%&#34;&gt;
 &lt;iframe frameborder=&#34;0&#34; src=&#34;https://datalens.yandex/tdlfhihtxz32j?_embedded=1&amp;_no_controls=1&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;
+&lt;div class=&#34;piktowrapper-embed&#34; data-uid=&#34;ca3d34a3bc9e-my-visual&#34;&gt;&lt;/div&gt;&lt;script&gt;(function(d){var js, id=&#34;pikto-embed-js&#34;, ref=d.getElementsByTagName(&#34;script&#34;)[0];if (d.getElementById(id)) { return;}js=d.createElement(&#34;script&#34;); js.id=id; js.async=true;js.src=&#34;https://create.piktochart.com/assets/embedding/embed.js&#34;;ref.parentNode.insertBefore(js, ref);}(document));&lt;/script&gt;</description>
     </item>
     
     <item>
