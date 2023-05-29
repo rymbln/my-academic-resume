@@ -2,193 +2,193 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/example-talk/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/"
+                href="https://rymbln.github.io/my-academic-resume/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://rymbln.github.io/my-academic-resume/"
                 />
   </url><url>
-    <loc>https://example.com/tag/academic/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/categories/"
+                href="https://rymbln.github.io/my-academic-resume/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://rymbln.github.io/my-academic-resume/categories/"
                 />
   </url><url>
-    <loc>https://example.com/category/demo/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/"
+                href="https://rymbln.github.io/my-academic-resume/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://rymbln.github.io/my-academic-resume/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/writing-technical-content/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/publication_types/"
-                />
-  </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/"
+                href="https://rymbln.github.io/my-academic-resume/ru/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication/"
+                href="https://rymbln.github.io/my-academic-resume/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://rymbln.github.io/my-academic-resume/ru/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rymbln.github.io/my-academic-resume/publication/"
+                />
+  </url><url>
+    <loc>https://rymbln.github.io/my-academic-resume/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/jupyter/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/deep-learning/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/demo/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/example/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/external-project/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication-type/1/"
+                href="https://rymbln.github.io/my-academic-resume/ru/publication-type/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication-type/1/"
+                href="https://rymbln.github.io/my-academic-resume/publication-type/1/"
                 />
   </url><url>
-    <loc>https://example.com/publication/conference-paper/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/conference-paper/"
+                href="https://rymbln.github.io/my-academic-resume/ru/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/publication/conference-paper/"
+                href="https://rymbln.github.io/my-academic-resume/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://rymbln.github.io/my-academic-resume/admin/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
